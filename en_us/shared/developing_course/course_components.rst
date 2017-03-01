@@ -224,7 +224,6 @@ To move components to another unit in the course outline, follow these steps.
    the component by selecting the section, the subsection, and then the unit.
 
    .. image:: ../../../shared/images/component_move_navigation.png
-
       :alt: The Move dialog box displays your course outline tree for
         navigating to the unit that you want to move your component to.
       :width: 380
